@@ -22,6 +22,6 @@ The dashboad has been developed using python's visualization library [Dash](http
    
    Below screenshot shows how the information is displayed in the dashboard ![screenshot](https://github.com/suraj-deshmukh/covid19-tracker/blob/master/screenshots/dash5.png)
    
-   You can even search specific country like below ![screenshot](https://github.com/suraj-deshmukh/covid19-tracker/blob/master/screenshots/dash2.png)
+   You can even search specific country like below and map would re-center itself to selected country ![screenshot](https://github.com/suraj-deshmukh/covid19-tracker/blob/master/screenshots/dash2.png)
    
  3. Stacked Bar Chart representing the Confirmed cases progress pattern with 3 sub categories as Active, Recovered and Deaths. For eg. If you want to see only Active cases pattern then just disable the other two i.e Recovered and Deaths by clicking on respective legents (once you click on them there could would turn into gray) as shown in the below screenshot ![screenshot](https://github.com/suraj-deshmukh/covid19-tracker/blob/master/screenshots/dash4.png) 
