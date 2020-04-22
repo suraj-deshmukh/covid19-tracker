@@ -1,5 +1,5 @@
 # [covid19-tracker](http://www.sars-cov-2019.com/)
-Covid 19 Dashboard to Track the Pandemic Pattern. Click [here](http://www.sars-cov-2019.com/) for live demo.
+Covid 19 Dashboard to Track the Pandemic Pattern. Click [here](http://www.sars-cov-2019.com/) for live demo. It is a desktop site.
 
 ## Welcome to [Covid19 Dashboard](http://www.sars-cov-2019.com/)
 
