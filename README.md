@@ -14,7 +14,7 @@ The dashboad has been developed using python's visualization library [Dash](http
    - Recovered: Number of Recovered patients
    - Deaths: Number of patients died due to covid 19
    - Critical: Number of patients in critical stage
-   - Today's Case: Number of postives detected for current date
+   - Today's Case: Number of positives detected for current date
    - Today's Death: Number of deaths reported for current date
    - TestPerOneMillion: Number of Tests done per one million so far
    - DeathsPerOneMillion: Number of patients died per million so far
